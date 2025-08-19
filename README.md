@@ -1,1 +1,2 @@
-funcionalidad lista
+
+preparar 1.0.0
